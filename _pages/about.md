@@ -74,12 +74,13 @@ See my recent publications for more details.
     <div style="width: 1em;">•</div>
     <div>
       <h3 style="margin: 0;"><strong>Sep. 2022 – Jun. 2024</strong></h3>
-      <p style="margin: 0;">Postion: Master (M.Sc.)</p>
+      <p style="margin: 0;">Postion: M.Sc.(second and third year)</p>
       <p style="margin: 0;"><strong>Institute of Optics and Electronics</strong>, Chinese Academy of Sciences</p>
       <p style="margin: 0;"><em>Chengdu, China</em></p>
       
       <p style="margin: 0;"><strong>Sep. 2021 – Aug. 2022</strong></p>
-      <p style="margin: 0; margin-top: 10px;"><strong>University of Chinese Academy of Sciences</strong></p>
+      <p style="margin: 0;">Postion: Postion: M.Sc.(first year)</p>
+      <p style="margin: 0;"><strong>University of Chinese Academy of Sciences</strong></p>
       <p style="margin: 0;"><em>Beijing, China</em></p>
       
     </div>
@@ -97,7 +98,7 @@ See my recent publications for more details.
     <div style="width: 1em;">•</div>
     <div>
       <h3 style="margin: 0;"><strong>Sep. 2017 – Jun. 2021</strong></h3>
-      <p style="margin: 0;">Postion: Bachelor (B.Eng.)</p>
+      <p style="margin: 0;">Postion: B.Eng.</p>
       <p style="margin: 0;"><strong>Chongqing University of Posts and Telecommunications</strong></p>
       <p style="margin: 0;"><em>Chongqing, China</em></p>
       
