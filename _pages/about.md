@@ -48,7 +48,7 @@ See my recent publications for more details.
 <!-- Ph.D. -->
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
   <div>
-    <h3>Ph.D.</h3>
+    <h3>• Ph.D.</h3>
     <p><strong>Computer Vision Center</strong>, Universitat Autònoma de Barcelona<br>
     <em>Barcelona, Spain</em><br>
     <strong>Oct. 2024 – Present</strong></p>
@@ -62,7 +62,7 @@ See my recent publications for more details.
 <!-- Master IOE -->
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
   <div>
-    <h3>Master (M.Sc.)</h3>
+    <h3>• Master (M.Sc.)</h3>
     <p><strong>Institute of Optics and Electronics</strong>, Chinese Academy of Sciences<br>
     <em>Chengdu, China</em><br>
     <strong>Sep. 2022 – Jun. 2024</strong></p>
@@ -73,7 +73,7 @@ See my recent publications for more details.
 <!-- Master UCAS -->
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
   <div>
-    <h3>Master (M.Sc.)</h3>
+    <h3>• Master (M.Sc.)</h3>
     <p><strong>University of Chinese Academy of Sciences</strong><br>
     <em>Beijing, China</em><br>
     <strong>Sep. 2021 – Aug. 2022</strong></p>
@@ -83,7 +83,7 @@ See my recent publications for more details.
 <!-- Bachelor -->
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
   <div>
-    <h3>Bachelor (B.Eng.)</h3>
+    <h3>• Bachelor (B.Eng.)</h3>
     <p><strong>Chongqing University of Posts and Telecommunications</strong><br>
     <em>Chongqing, China</em><br>
     <strong>Sep. 2017 – Jun. 2021</strong></p>
