@@ -83,7 +83,7 @@ See my recent publications for more details.
     </div>
   </div>
   <!-- logo 横向排列，底部对齐 -->
-  <div style="display: flex; gap: 20px; align-items: flex-end;">
+  <div style="display: flex; justify-content: center; align-items: flex-end; gap: 20px;">
     <img src="/images/logo_cas.png" alt="CAS Logo" width="100">
     <img src="/images/logo_ioe.png" alt="IOE Logo" width="100">
   </div>
