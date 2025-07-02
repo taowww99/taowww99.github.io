@@ -70,24 +70,30 @@ See my recent publications for more details.
 
 <!-- Master UCAS and IOE -->
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 30px;">
+  <!-- 左侧内容区域 -->
   <div style="display: flex;">
     <div style="width: 1em;">•</div>
     <div>
+      <!-- 第二、三年 -->
       <h3 style="margin: 0;"><strong>Sep. 2022 – Jun. 2024</strong></h3>
-      <p style="margin: 0;">Postion: M.Sc.(second and third year)</p>
+      <p style="margin: 0;">Position: M.Sc. (second and third year)</p>
       <p style="margin: 0;">Institute of Optics and Electronics, Chinese Academy of Sciences</p>
       <p style="margin: 0;"><em>Chengdu, China</em></p>
-    <div style="width: 1em;">•</div>
-    <div>
-      <p style="margin: 0;"><strong>Sep. 2021 – Aug. 2022</strong></p>
-      <p style="margin: 0;">Postion: M.Sc.(first year)</p>
-      <p style="margin: 0;">University of Chinese Academy of Sciences</p>
-      <p style="margin: 0;"><em>Beijing, China</em></p>
-      
+
+      <!-- 第一年的信息，新增原点 -->
+      <div style="display: flex;">
+        <div style="width: 1em;">•</div>
+        <div>
+          <h3 style="margin: 0;"><strong>Sep. 2021 – Aug. 2022</strong></h3>
+          <p style="margin: 0;">Position: M.Sc. (first year)</p>
+          <p style="margin: 0;">University of Chinese Academy of Sciences</p>
+          <p style="margin: 0;"><em>Beijing, China</em></p>
+        </div>
+      </div>
     </div>
   </div>
   <!-- logo 横向排列，底部对齐 -->
-  <div style="display: flex; justify-content: center; align-items: flex-end; gap: 20px;">
+  <div style="display: flex; align-items: flex-end; gap: 20px;">
     <img src="/images/logo_cas.png" alt="CAS Logo" width="100">
     <img src="/images/logo_ioe.png" alt="IOE Logo" width="100">
   </div>
