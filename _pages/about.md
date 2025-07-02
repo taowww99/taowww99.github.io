@@ -54,7 +54,7 @@ See my recent publications for more details.
     <strong>Oct. 2024 – Present</strong></p>
   </div>
   <div>
-    <img src="/images/logo_cvc.png" alt="CVC Logo" width="100" style="margin-right: 10px;">
+    <img src="/images/logo_cvc.png" alt="CVC Logo" width="100" style="margin-bottom: 10px;">
     <img src="/images/logo_uab.png" alt="UAB Logo" width="100">
   </div>
 </div>
