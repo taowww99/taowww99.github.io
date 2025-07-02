@@ -53,10 +53,11 @@ See my recent publications for more details.
     <div style="width: 1em;">•</div>
     <!-- 文本主体 -->
     <div>
-      <h3 style="margin: 0;">Ph.D.</h3>
+      <h3 style="margin: 0;"><strong>Oct. 2024 – Present</strong></h3>
+      <p style="margin: 0;">Postion: Ph.D.</p>
       <p style="margin: 0;"><strong>Computer Vision Center</strong>, Universitat Autònoma de Barcelona</p>
       <p style="margin: 0;"><em>Barcelona, Spain</em></p>
-      <p style="margin: 0;"><strong>Oct. 2024 – Present</strong></p>
+      
     </div>
   </div>
   <!-- logo 横向排列，顶部对齐 -->
@@ -72,14 +73,15 @@ See my recent publications for more details.
   <div style="display: flex;">
     <div style="width: 1em;">•</div>
     <div>
-      <h3 style="margin: 0;">Master (M.Sc.)</h3>
+      <h3 style="margin: 0;"><strong>Sep. 2022 – Jun. 2024</strong></h3>
+      <p style="margin: 0;">Postion: Master (M.Sc.)</p>
       <p style="margin: 0;"><strong>Institute of Optics and Electronics</strong>, Chinese Academy of Sciences</p>
       <p style="margin: 0;"><em>Chengdu, China</em></p>
-      <p style="margin: 0;"><strong>Sep. 2022 – Jun. 2024</strong></p>
-
+      
+      <p style="margin: 0;"><strong>Sep. 2021 – Aug. 2022</strong></p>
       <p style="margin: 0; margin-top: 10px;"><strong>University of Chinese Academy of Sciences</strong></p>
       <p style="margin: 0;"><em>Beijing, China</em></p>
-      <p style="margin: 0;"><strong>Sep. 2021 – Aug. 2022</strong></p>
+      
     </div>
   </div>
   <!-- logo 横向排列，底部对齐 -->
@@ -94,10 +96,11 @@ See my recent publications for more details.
   <div style="display: flex;">
     <div style="width: 1em;">•</div>
     <div>
-      <h3 style="margin: 0;">Bachelor (B.Eng.)</h3>
+      <h3 style="margin: 0;"><strong>Sep. 2017 – Jun. 2021</strong></h3>
+      <p style="margin: 0;">Postion: Bachelor (B.Eng.)</p>
       <p style="margin: 0;"><strong>Chongqing University of Posts and Telecommunications</strong></p>
       <p style="margin: 0;"><em>Chongqing, China</em></p>
-      <p style="margin: 0;"><strong>Sep. 2017 – Jun. 2021</strong></p>
+      
     </div>
   </div>
   <!-- logo 横向排列，底部对齐 -->
