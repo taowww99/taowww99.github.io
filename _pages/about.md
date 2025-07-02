@@ -66,20 +66,8 @@ See my recent publications for more details.
   </div>
 </div>
 
-<!-- Master IOE -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 30px;">
-  <div style="display: flex;">
-    <div style="width: 1em;">+</div>
-    <div>
-      <h3 style="margin: 0;">Master (M.Sc.)</h3>
-      <p style="margin: 0;"><strong>Institute of Optics and Electronics</strong>, Chinese Academy of Sciences</p>
-      <p style="margin: 0;"><em>Chengdu, China</em></p>
-      <p style="margin: 0;"><strong>Sep. 2022 – Jun. 2024</strong></p>
-    </div>
-  </div>
-</div>
 
-<!-- Master UCAS -->
+<!-- Master UCAS and IOE -->
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 30px;">
   <div style="display: flex;">
     <div style="width: 1em;">•</div>
@@ -89,15 +77,15 @@ See my recent publications for more details.
       <p style="margin: 0;"><em>Chengdu, China</em></p>
       <p style="margin: 0;"><strong>Sep. 2022 – Jun. 2024</strong></p>
 
-      <p style="margin: 0;"><strong>University of Chinese Academy of Sciences</strong></p>
+      <p style="margin: 0; margin-top: 10px;"><strong>University of Chinese Academy of Sciences</strong></p>
       <p style="margin: 0;"><em>Beijing, China</em></p>
       <p style="margin: 0;"><strong>Sep. 2021 – Aug. 2022</strong></p>
     </div>
-  <!-- logo 横向排列，顶部对齐 -->
+  </div>
+  <!-- logo 横向排列，底部对齐 -->
   <div style="display: flex; gap: 20px; align-items: flex-end;">
     <img src="/images/logo_cas.png" alt="CAS Logo" width="100">
     <img src="/images/logo_ioe.png" alt="IOE Logo" width="100">
-    
   </div>
 </div>
 
@@ -111,10 +99,10 @@ See my recent publications for more details.
       <p style="margin: 0;"><em>Chongqing, China</em></p>
       <p style="margin: 0;"><strong>Sep. 2017 – Jun. 2021</strong></p>
     </div>
-  <!-- logo 横向排列，顶部对齐 -->
+  </div>
+  <!-- logo 横向排列，底部对齐 -->
   <div style="display: flex; gap: 20px; align-items: flex-end;">
     <img src="/images/logo_cqupt.png" alt="CQUPT Logo" width="100">
-
   </div>
 </div>
 
