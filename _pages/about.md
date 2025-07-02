@@ -77,9 +77,10 @@ See my recent publications for more details.
       <p style="margin: 0;">Postion: M.Sc.(second and third year)</p>
       <p style="margin: 0;"><strong>Institute of Optics and Electronics</strong>, Chinese Academy of Sciences</p>
       <p style="margin: 0;"><em>Chengdu, China</em></p>
-      
+    <div style="width: 1em;">•</div>
+    <div>
       <p style="margin: 0;"><strong>Sep. 2021 – Aug. 2022</strong></p>
-      <p style="margin: 0;">Postion: Postion: M.Sc.(first year)</p>
+      <p style="margin: 0;">Postion: M.Sc.(first year)</p>
       <p style="margin: 0;"><strong>University of Chinese Academy of Sciences</strong></p>
       <p style="margin: 0;"><em>Beijing, China</em></p>
       
