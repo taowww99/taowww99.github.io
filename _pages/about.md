@@ -81,7 +81,7 @@ See my recent publications for more details.
       <p style="margin: 0;"><em>Chengdu, China</em></p>
 
       <!-- 第一年的信息，新增原点 -->
-      <div style="display: flex;">
+      <div style="display: flex; margin-top: 10px;">
         <div style="width: 1em;">•</div>
         <div>
           <h3 style="margin: 0;"><strong>Sep. 2021 – Aug. 2022</strong></h3>
