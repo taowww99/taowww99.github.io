@@ -45,7 +45,12 @@ See my recent publications for more details.
 <span class='anchor' id='-education'></span>
 ## Education
 
-+ xxx
++ Oct. 2024 ~ Now. Ph.D. in Computer Science, Computer Vision Center, Universitat Autònoma de Barcelona, (Barcelona, Spain)
+ 
++ Sep. 2022 ~ Jun. 2024. Master in Signal and Information Processing, Institute of Optics and Electronics, Chinese Academy of Sciences, (Chengdu, China)
++ Sep. 2021 ~ Aug. 2022. Master in Signal and Information Processing, University of Chinese Academy of Sciences, (Beijing, China)
+
++ Sep. 2017 ~ Jun. 2021. Bachelor in Automation School, Chongqing University of Posts and Telecommunications (Chongqing, China)
 
 
 <span class='anchor' id='-awards'></span>
