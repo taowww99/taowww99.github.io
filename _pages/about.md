@@ -85,6 +85,10 @@ See my recent publications for more details.
     <div style="width: 1em;">•</div>
     <div>
       <h3 style="margin: 0;">Master (M.Sc.)</h3>
+      <p style="margin: 0;"><strong>Institute of Optics and Electronics</strong>, Chinese Academy of Sciences</p>
+      <p style="margin: 0;"><em>Chengdu, China</em></p>
+      <p style="margin: 0;"><strong>Sep. 2022 – Jun. 2024</strong></p>
+
       <p style="margin: 0;"><strong>University of Chinese Academy of Sciences</strong></p>
       <p style="margin: 0;"><em>Beijing, China</em></p>
       <p style="margin: 0;"><strong>Sep. 2021 – Aug. 2022</strong></p>
