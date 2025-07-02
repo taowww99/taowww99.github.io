@@ -46,47 +46,62 @@ See my recent publications for more details.
 ## Education
 
 <!-- Ph.D. -->
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-  <div>
-    <h3>• Ph.D.</h3>
-    <p><strong>Computer Vision Center</strong>, Universitat Autònoma de Barcelona<br>
-    <em>Barcelona, Spain</em><br>
-    <strong>Oct. 2024 – Present</strong></p>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 30px;">
+  <!-- 左侧内容区域 -->
+  <div style="display: flex;">
+    <!-- 原点 -->
+    <div style="width: 1em;">•</div>
+    <!-- 文本主体 -->
+    <div>
+      <h3 style="margin: 0;">Ph.D.</h3>
+      <p style="margin: 0;"><strong>Computer Vision Center</strong>, Universitat Autònoma de Barcelona</p>
+      <p style="margin: 0;"><em>Barcelona, Spain</em></p>
+      <p style="margin: 0;"><strong>Oct. 2024 – Present</strong></p>
+    </div>
   </div>
-  <div>
-    <img src="/images/logo_cvc.png" alt="CVC Logo" width="100" style="margin-bottom: 10px;">
+  <!-- logo 横向排列，顶部对齐 -->
+  <div style="display: flex; gap: 20px; align-items: flex-start;">
+    <img src="/images/logo_cvc.png" alt="CVC Logo" width="100">
     <img src="/images/logo_uab.png" alt="UAB Logo" width="100">
   </div>
 </div>
 
 <!-- Master IOE -->
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-  <div>
-    <h3>• Master (M.Sc.)</h3>
-    <p><strong>Institute of Optics and Electronics</strong>, Chinese Academy of Sciences<br>
-    <em>Chengdu, China</em><br>
-    <strong>Sep. 2022 – Jun. 2024</strong></p>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 30px;">
+  <div style="display: flex;">
+    <div style="width: 1em;">•</div>
+    <div>
+      <h3 style="margin: 0;">Master (M.Sc.)</h3>
+      <p style="margin: 0;"><strong>Institute of Optics and Electronics</strong>, Chinese Academy of Sciences</p>
+      <p style="margin: 0;"><em>Chengdu, China</em></p>
+      <p style="margin: 0;"><strong>Sep. 2022 – Jun. 2024</strong></p>
+    </div>
   </div>
-  <!-- No image for this one -->
 </div>
 
 <!-- Master UCAS -->
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-  <div>
-    <h3>• Master (M.Sc.)</h3>
-    <p><strong>University of Chinese Academy of Sciences</strong><br>
-    <em>Beijing, China</em><br>
-    <strong>Sep. 2021 – Aug. 2022</strong></p>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 30px;">
+  <div style="display: flex;">
+    <div style="width: 1em;">•</div>
+    <div>
+      <h3 style="margin: 0;">Master (M.Sc.)</h3>
+      <p style="margin: 0;"><strong>University of Chinese Academy of Sciences</strong></p>
+      <p style="margin: 0;"><em>Beijing, China</em></p>
+      <p style="margin: 0;"><strong>Sep. 2021 – Aug. 2022</strong></p>
+    </div>
   </div>
 </div>
 
 <!-- Bachelor -->
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
-  <div>
-    <h3>• Bachelor (B.Eng.)</h3>
-    <p><strong>Chongqing University of Posts and Telecommunications</strong><br>
-    <em>Chongqing, China</em><br>
-    <strong>Sep. 2017 – Jun. 2021</strong></p>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 30px;">
+  <div style="display: flex;">
+    <div style="width: 1em;">•</div>
+    <div>
+      <h3 style="margin: 0;">Bachelor (B.Eng.)</h3>
+      <p style="margin: 0;"><strong>Chongqing University of Posts and Telecommunications</strong></p>
+      <p style="margin: 0;"><em>Chongqing, China</em></p>
+      <p style="margin: 0;"><strong>Sep. 2017 – Jun. 2021</strong></p>
+    </div>
   </div>
 </div>
 
