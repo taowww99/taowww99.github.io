@@ -60,8 +60,8 @@ See my recent publications for more details.
     </div>
   </div>
   <!-- logo 横向排列，顶部对齐 -->
-  <div style="display: flex; gap: 20px; align-items: flex-start;">
-    <img src="/images/logo_cvc.png" alt="CVC Logo" width="100" style="margin-bottom: 10px;">
+  <div style="display: flex; gap: 20px; align-items: flex-end;">
+    <img src="/images/logo_cvc.png" alt="CVC Logo" width="100">
     <img src="/images/logo_uab.png" alt="UAB Logo" width="100">
   </div>
 </div>
