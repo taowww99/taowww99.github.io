@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tao Wu"
-description              : "Diffusion Models"
+description              : # "Diffusion Models, Computer Vision"
 repository               : "taowww99.github.io"
 google_scholar_stats_use_cdn : False
 
