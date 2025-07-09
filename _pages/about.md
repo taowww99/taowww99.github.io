@@ -120,7 +120,7 @@ My research covers a range of `Diffusion Model`, `Vision Transformer` and `Landm
 <span class='anchor' id='-awards'></span>
 ## Honors and Awards
 
-+ xxx
++ Outstanding Graduates of Beijing, Beijing Municipal Education Commission, 2024
 
 
 
